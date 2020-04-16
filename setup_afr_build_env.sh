@@ -6,8 +6,8 @@ set_PATH_file="$HOME/set_esp-idf_PATH.sh"
 
 awscli_pkg_URL='https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip'
 
-aws_access_key_id='AKIAVG7B6SOT3Q5AMUYE'
-aws_secret_access_key='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'
+aws_access_key_id='BKIAVG7B7SOU3Q5AMUYE'
+aws_secret_access_key='aEHzR4maofRRzqxqVZdHrs/hkWyzxZeX2yyJ95r+'
 aws_default_region='us-east-1'
 aws_default_output='json'
 
